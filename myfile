@@ -1,0 +1,5 @@
+#!bin/bash
+yum install git -y
+yum update git -y
+yum install httpd -y
+yum install chef -y
